@@ -9,7 +9,7 @@ footer: '[![image](CQUlogo.png)](http://www.cqu.edu.cn/)'
 
 <!-- _class: lead -->
 [![height:6cm center](MSClogo.png)](https://cqu.microsoftstudent.club/)
-# <center> Slide deck in Marpit Markdown
+# <center> Slide deck in [Marpit](https://marpit.marp.app/) Markdown
 ## <center> **Show python learning code**
 
 <style>
@@ -56,6 +56,13 @@ while liebiao.count(zuida) >=1 :
 | 2006 | Python 2.5 | the with statement|
 | 2008 | Python 3.0 | reduce feature duplication|
 | 2020 | Python 3.9 | new string methods|
+
+<style scoped>
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
 
 ---
 
