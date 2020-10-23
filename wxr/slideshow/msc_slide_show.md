@@ -2,13 +2,13 @@
 marp: true
 theme: dracula
 paginate: true
-header: '![image](MSClogo_thumbnail.png)'
-footer: '![image](CQUlogo.png)'
+header: '[![image](MSClogo_thumbnail.png)](https://cqu.microsoftstudent.club/)'
+footer: '[![image](CQUlogo.png)](http://www.cqu.edu.cn/)'
 
 ---
 
 <!-- _class: lead -->
-![height:6cm center](MSClogo.png)
+[![height:6cm center](MSClogo.png)](https://cqu.microsoftstudent.club/)
 # <center> Slide deck in Marpit Markdown
 ## <center> **Show python learning code**
 
@@ -56,3 +56,17 @@ while liebiao.count(zuida) >=1 :
 | 2006 | Python 2.5 | the with statement|
 | 2008 | Python 3.0 | reduce feature duplication|
 | 2020 | Python 3.9 | new string methods|
+
+---
+
+# Languages influenced by Python
+
+- [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
+
+- [Go](https://en.wikipedia.org/wiki/Go_(programming_language))
+
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+
+- [Groovy](https://en.wikipedia.org/wiki/Groovy_(programming_language))
+
+- [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))
