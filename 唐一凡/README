@@ -1,0 +1,9 @@
+#关于本人解答的一些说明
+- ##A1A2
+  A1A2为第一二题解答，其中第二题使用markdown完成，第一题解答即为第二题幻灯片内容，基于5种语言输出hello world。其中后两种为esoteric-language，而由于brainfuck对回车并不敏感，利用这个特性，我将其代码调整为hello字样。幻灯片中图片地址来源自cqu.microsoftstudent.club的界面elements栏，及GitHub
+
+- ##A5
+  PyQt5使用不熟练（书才刚刚到），所以没有做GUI。具有两组接龙，分别为《Revenge》和《唐伯虎点秋香》中对王之王名场面。可以随时结束并退出，回答错误后自动从头重新开始。
+
+- ##A6
+该贪吃蛇代码大体来自https://github.com/cyyself/console-snake-game ，仅将原有障碍改为同时出现三个M,S,C的字符形障碍，但未解决闪屏问题以及按反方向按键时死亡问题。
